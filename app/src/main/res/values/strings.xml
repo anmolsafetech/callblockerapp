@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CallBlocker</string>
+    <string name="enable_call_blocker">Enable Call Blocker</string>
+    <string name="status_enabled">Status: Call Blocker is ENABLED</string>
+    <string name="status_disabled">Status: Call Blocker is DISABLED\n(Requires permission)</string>
+    <string name="description">This app automatically blocks incoming calls from numbers starting with +917313</string>
+</resources>
